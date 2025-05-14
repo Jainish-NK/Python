@@ -1,0 +1,18 @@
+operator
+
+operator = operator are special Symbol Wiche  can be use to perform Operation Between Operand
+
+unary operator = Min 1 Operand ++a a-- 
+Binary operator = min 2 Operand 
+Ternary operator = min 3 Operand reqaired ? : 
+
+Binary operator
+
+1) Arithmetic operator : + , - , * , / ,  ** , // floor operator
+2) Relational operator : <,> , <= , >= , = , !=
+3) Logical operator : AND , OR , NOT
+4) Bitwise operator : <<,>>,<,>^,|,&
+5) assignment operator : == , += , -= , *= , /=..
+6) Membership operator : in , not in
+7) identity operator : is , is not
+

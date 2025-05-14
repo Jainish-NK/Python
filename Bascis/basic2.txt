@@ -1,0 +1,15 @@
+typecasting
+
+implicit typecasting : compiler
+int x = 100.20;
+print(x) 100
+
+explicit typecasting : programmer
+
+str --> int --> explicit
+int type : int data
+
+narrow | broad type
+
+narrow -> float->int
+broad -> int -> float
