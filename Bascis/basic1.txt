@@ -1,0 +1,33 @@
+programming lanaguage:
+
+scripting lanaguage : js,python
+programming lanaguag : c,cpp,java...
+
+we have 2 types of programming | scripting lanaguag
+
+1) server side programming lanaguag : c,cpp,java,python
+2) client side programming lanaguag : end user,browser,javascript
+
+we have 2 typed of programming | scripting lanaguag 
+
+datatype:
+1) staticlly typed: c,cpp,java
+    we have to define datatype while declaring variable
+2) dynamiclly typed: python,js:
+    we have to define datatype while declaring a variable
+    compiler:
+
+files:
+.py
+
+history:
+1)python was developed by guido van rossum in 1991
+2)python is interpreted lanaguag
+
+use:
+1)python is used for web development : facebook , google , youtube
+2)python is used for data science: data analysis , data visualization
+3)python is used for machine learning:tensorflow,keras
+4)python is used for airtificial intelligence : neural network , deep learning
+5)games development:pygame
+
