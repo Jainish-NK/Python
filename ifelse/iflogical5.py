@@ -1,21 +1,27 @@
+'''
+logical Operators : 
+
+#and or not
+    mult line comment
+    and
+    cond1  and cond2  result
+      T          T     True
+      T          F      False
+      F         -       False
+      
+      every cond must satified...
+      
+      cond1  or cond2  result
+        T        -       T
+        F        T       T
+        F        F       F
+      
+      atleast one cond sat...
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+'''
 
 personAge = 60
 isAlive = True

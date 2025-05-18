@@ -1,8 +1,9 @@
-no1 = int(input("Enter No1 : "))
-no2 = int(input("Enter No2 : "))
+no1 = int(input("\nEnter The No1 : "))
+no2 = int(input("\nEnter The no2 : "))
 
-if no1 >= no2:
-    print("No1 is Grt..")
+if no1>=no2:
+    print("\nNo1 Is Grt...")
 else:
-    print("No2 is Grt..")
+    print("\nNo2 Is Grt...")
+
     

@@ -1,7 +1,7 @@
 print("Welcome To Cricket Game")
 print("\nSelect Mode")
-print("\n1.Single Mode")
-print("\n2.Multi Mode")
+print("\n1.Single Player")
+print("\n2.Multi Player")
 
 mode = int(input("\nEnter The Mode(1/2): "))
 
@@ -13,7 +13,7 @@ match mode:
 
         print("\nSeleted Difficulty : ")
         print("\n1..Hard")
-        print("\n2..Medum")
+        print("\n2..Medium")
         print("\n3..Easy")
 
         diff = int(input("\nEnter The Diffult Level: "))

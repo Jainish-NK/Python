@@ -1,0 +1,8 @@
+string 
+1) string is immutable : eg name = "abc"
+2) string is stored data in index manner "a[0]b[1]c[2]"
+3)string is iterble
+4)string is subscriptable = name = "ram" name[0]
+
+ascii value:unicode
+A - 65 a - 97
