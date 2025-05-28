@@ -1,0 +1,10 @@
+#dict:
+
+1) dict is dynamic
+2) dict stores data in key value pair ["name":"amit"]
+3) dict can have only unique key
+4) dict can have only unique values
+5) dict can have hetrogenious key and value both...
+6) dict mutable
+7) dict is iterabale
+8) dict is subscriptable

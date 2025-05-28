@@ -1,0 +1,8 @@
+#Tuple
+1)tuple is dynamic:
+2)tuple is hetrogenious [11,3.24,"Hello"]
+3)tuple allows duplicate element
+4)tuple is iterabale
+5)tuple is subscriptable
+7)tuple is immutable
+8)tuple stores data in index manner
