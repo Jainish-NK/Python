@@ -1,14 +1,23 @@
-'''
-enter 1 for add
-    a +b - 20
-    print(20)
-enter 2 for sub
-enter 3 for mul
-enter 4 for div
+#default argument
 
-5 for get all answrs
-
-condition: if list empty : user has not entered any operation yet.
-'''
+def add(a=10,b=20):
+    return a+b
+print(add(100,20))
+print(add())
 
 
+
+def greet(name="jainish"):
+    print("hello," , name)
+
+greet("vidhi")
+greet()
+
+
+
+def bill(customer,amount,discount=0):
+    total = amount - discount
+    print(f"customer: {customer} has to pay: {total}")
+
+bill("jainish",500,50)
+bill("vidhi",100)

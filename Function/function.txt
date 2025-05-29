@@ -1,0 +1,30 @@
+function:
+
+type of function:
+
+1) built in function
+2)user defined function
+
+
+4 type of user defined functions:
+
+1)without argument and without return value 
+2)with argument and with return value 
+3)without argument and with return value    
+4)with argument and with return value
+
+void demo
+int demo
+
+to create function we use def keyword
+def function_name():
+    #function body
+
+
+use of function:
+1)code reusability
+2)modularity : breakcode into small modules bank : deposite , withdraw , balance
+3)debugging : easy to debug code,
+4)readability : easy to read code
+
+
