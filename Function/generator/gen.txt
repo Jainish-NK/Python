@@ -1,0 +1,11 @@
+GENERATOR yield:
+big file : line ----> user
+1 line ->
+
+def test:
+retrun [10,1]
+
+file ---> 1line
+2nd line ---retrun
+3nd line ----retrun
+
