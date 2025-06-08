@@ -1,0 +1,20 @@
+pops:
+oops : class objectwrap
+
+1)encapsulation: 1) class , object , constructor ...
+2)inheritance
+3)polymorphisam
+4)abstraction
+
+
+class : class is a buleprint of object
+object : object is an real world entity of class
+
+constructor : constructor is special function which can create using __init__
+            : USE OF constructor initilize class in memory
+            : constructor called auto when we create an object of class
+            constructor does not have any return type but it can have param default const param
+            to initilize instance variable of  class
+
+
+            
