@@ -1,0 +1,34 @@
+ERRORS : syntax error,
+
+Exception : programme contiunes flow dist
+
+how to handle exception in python:
+1) try except block
+2) try except else block
+3) try except finally block
+4) try except else finally bloak
+
+hyrachi of exception in python:
+    BaseException
+        SystemExit
+        KeyboardInterrupt
+        GeneratorExit
+        Exception
+            StopIteration
+            ArithmeticError
+                ZeroDivisionError
+                FloatingPointError
+                OverflowError
+            AssertionError
+            AttributeError
+            EOFError
+            ImportError
+            IndexError
+            KeyError
+            MemoryError
+            NameError
+            OSError
+            RuntimeError
+            SyntaxError
+            TypeError
+            ValueError

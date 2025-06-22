@@ -1,0 +1,14 @@
+file : to achive data persistancy we use file.
+
+data per : to store data perm in form of file or db called...
+
+open file
+read/write data
+close file 
+
+'r' : read mode
+'w' : write mode
+'a' : append mode
+'r+': read and write mode
+'x':exclusive creation mode (fails if file exists)
+b:binary mode (for non-text files)

@@ -1,0 +1,18 @@
+polymorphism : many forms of the function
+2 type of polymorphism are there 
+1)compile time polymorphism : function overloading,operator overloading
+2)runtime polymorphism : function overriding
+
+
+function overloading : same function name but different num of parameters or different type of parameters
+in python it is not supported directly but we can achieve it using default parameters or variable length arguments (*args, **kwargs).
+
+
+operator overriding 
+parent class method created and child class method created with same name
+
+operator overloading;
+operator are use for performing operations on object of user defined class.
+In python , you can overload operators by defining special methods in your class.
+These methods are prefixed and suffixed with double underscores (dunder methods).
+For example, to overload the addition operator (+), you would define the `__add__` method in your class.
